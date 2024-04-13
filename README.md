@@ -1,4 +1,4 @@
-# GlobalEduHub: Empowering Students with Reliable Information
+# DebunkHub: Empowering Students with Reliable Information
 
 Welcome to GlobalEduHub, an advanced solution developed to transform and fully mobilize the student experience at the University of South Florida System.
 
@@ -156,9 +156,6 @@ For any inquiries or support, please contact Saivishal Vempati at [vempatisaivis
 - Generative AI
 - Google Bard
   
-Vempati Sai Vishal
-Narigiri Vaishnav
-Chitimella Praneeth
-M Shanmukh
+Mediga Vishal Vardhan
 
 ---
